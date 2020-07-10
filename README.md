@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ByteDance.
+- 🌱 I’m currently learning Swift.
+- 📫 How to reach me: nemocdz@gmail.com
+- ⚡ Fun fact: I love Nintendo&Pokemon.
+
 <!--
 **Nemocdz/Nemocdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
