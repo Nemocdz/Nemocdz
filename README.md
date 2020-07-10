@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ByteDance.
-- 🌱 I’m currently learning Swift.
+- 🔭 I’m currently working on [ByteDance](https://www.bytedance.com/).
+- 🌱 I’m currently learning [Swift](https://swift.org/).
 - 📫 How to reach me: nemocdz@gmail.com
 - ⚡ Fun fact: I love Nintendo&Pokemon.
 
